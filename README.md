@@ -1,5 +1,5 @@
 # demo
-demo for ___ and ___ and ___
-by ___ and __ and ___ 
+demo for ___ and ___ and ___ .
+by ___ and __ and ___ .
 yours,
-____
+____.
